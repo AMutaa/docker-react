@@ -5,7 +5,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>Production Grade Workflow</h1>
-        <p>Changed</p>
+        <h3>Deploy: AWS Elastic Beanstalk</h3>
       </div>
     )
   }
